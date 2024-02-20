@@ -19,12 +19,12 @@
         - 글 리스트 
         - 글 삭제
 - DB 
-    - 10.9.1.99 개발 디비 사용
+    - 개발 디비 사용
     - 개별로 local에 mysql 셋팅하여 사용 가능
 
 ### 추가
 - 로컬 vm서버에 올리고 nginx 또는 apache 로 proxy pass 설정하여 도메인으로 넘기기
-- http://study.siwonschool.com 접속시 해당 api 로 접근
+- http://study.domain.com 접속시 해당 api 로 접근
 - 컨테이너에 해당 API 올리기
 
 
